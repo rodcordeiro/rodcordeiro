@@ -15,3 +15,16 @@ Hey Devs, I'm Rod. I'm 21, a developer, tattooer and passionate about creating t
 ![](https://komarev.com/ghpvc/?username=rodcordeiro&style=flat-square)
 
 ![Cordeiro's github stats](https://github-readme-stats.vercel.app/api?username=rodcordeiro&show_icons=true&theme=dark)
+
+
+<dev-widget 
+  data-username="rodcordeiro"
+  data-theme="dark"
+  data-sortby="date"
+  data-limit="5"
+  data-width="300px"
+  data-contentheight="300px"
+></dev-widget>
+
+
+<script src="https://unpkg.com/dev-widget@^1/dist/card.component.min.mjs" type="module"></script>
