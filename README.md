@@ -16,3 +16,4 @@ Hey Devs, I'm Rod. I'm 21, a developer, tattooer and passionate about creating t
 
 ![Cordeiro's github stats](https://github-readme-stats.vercel.app/api?username=rodcordeiro&show_icons=true&theme=dark)
 
+![Python language](https://img.shields.io/badge/python-black?&style=for-the-badge&logo=python)
