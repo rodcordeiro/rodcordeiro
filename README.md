@@ -1,5 +1,7 @@
 ## Hey devs ✌️
 
+![My Card](https://rodcordeiro.github.io/shares/img/myCard.png)
+
 Hey Devs, I'm Rod. I'm 21, a developer, tattooer and passionate about creating things and automating tasks with some programs/scripts. I'm studying Systems analysis and development at university Uninove.
 
 [![mail link](https://img.shields.io/badge/rodrigomendoncca%40gmail.com-black?&style=for-the-badge&logo=gmail)](mailto:rodrigomendoncca@gmail.com)
