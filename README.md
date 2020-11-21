@@ -1,6 +1,6 @@
 ## Hey devs ✌️
 
-![My Card](https://rodcordeiro.github.io/shares/img/myCard.png)
+![My Card](https://rodcordeiro.github.io/shares/img/myCard2.png)
 
 Hey Devs, I'm Rod. I'm 21, a developer, tattooer and passionate about creating things and automating tasks with some programs/scripts. I'm studying Systems analysis and development at university Uninove.
 
