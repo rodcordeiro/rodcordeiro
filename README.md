@@ -1,29 +1,33 @@
 ## Hey devs ✌️
 
-![My Card](https://rodcordeiro.github.io/shares/img/myCard2.png)
+<img src="https://rodcordeiro.github.io/shares/img/myCard3.png" height="400"/>
 
-Hey Devs, I'm Rod. I'm 21, a developer, tattooer and passionate about creating things and automating tasks with some programs/scripts. I'm studying Systems analysis and development at university Uninove.
+Hi, I'm Rod. I'm 22, a developer, tattooer and passionate about creating things and automating tasks with some programs/scripts. I'm studying Systems analysis and development at Uninove university.
 
-[![mail link](https://img.shields.io/badge/rodrigomendoncca%40gmail.com-black?&style=for-the-badge&logo=gmail)](mailto:rodrigomendoncca@gmail.com)
+[![mail link](https://img.shields.io/badge/rodrigomendoncca%40gmail.com-black?&style=for-the-badge&logo=gmail)](mailto:rodrigomendoncca@gmail.com) 
 
 [![Linkedin](https://img.shields.io/badge/rodrigomcordeiro-black?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rodrigomcordeiro)
-
 [![Github](https://img.shields.io/badge/rodcordeiro-black?&style=for-the-badge&logo=github)](https://github.com/rodcordeiro)
-
 [![Dev.To](https://img.shields.io/badge/rodcordeiro-black?&style=for-the-badge&logo=dev.to)](https://dev.to/rodcordeiro)
 
 ---
 ## My common languages are
 
-![Python language](https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=python)
-![JS language](https://img.shields.io/badge/JavaScript-black?&style=for-the-badge&logo=javascript)
-![ReactJS language](https://img.shields.io/badge/ReactJS-black?&style=for-the-badge&logo=react)
-
-![](https://komarev.com/ghpvc/?username=rodcordeiro&style=flat-square)
-
-![Cordeiro's github stats](https://github-readme-stats.vercel.app/api?username=rodcordeiro&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodcordeiro&theme=dark&layout=compact&bg_color=28,090909,222)
 
 
+![Cordeiro's github stats](https://github-readme-stats.vercel.app/api?username=rodcordeiro&show_icons=true&theme=dark&bg_color=28,090909,222&count_private=true)
+
+
+---
+## My last works
+[![Apprender](https://github-readme-stats.vercel.app/api/pin/?username=rodcordeiro&repo=apprenderMobile&theme=dark&bg_color=28,090909,222&layout=compact)](https://github.com/rodcordeiro/apprenderMobile)
+[![KissManager](https://github-readme-stats.vercel.app/api/pin/?username=rodcordeiro&repo=kissmanagermobile&theme=dark&bg_color=28,090909,222&layout=compact)](https://github.com/rodcordeiro/kissManagerMobile)
+[![Telegram_bot](https://github-readme-stats.vercel.app/api/pin/?username=rodcordeiro&repo=bot_beltis&theme=dark&bg_color=28,090909,222&layout=compact)](https://github.com/rodcordeiro/bot_beltis)
+[![RodChat](https://github-readme-stats.vercel.app/api/pin/?username=rodcordeiro&repo=chat&theme=dark&bg_color=28,090909,222&layout=compact)](https://github.com/rodcordeiro/chat)
+
+
+<!-- ![](https://komarev.com/ghpvc/?username=rodcordeiro&style=flat-square) -->
 
 <!--
 REFERENCES
