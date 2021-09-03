@@ -22,14 +22,14 @@ Hi, I'm Rod. I'm 22, a developer, tattooer and passionate about creating things 
 ---
 ## My last works
 [![Apprender](https://github-readme-stats.vercel.app/api/pin/?username=rodcordeiro&repo=apprenderApp&theme=dark&bg_color=28,090909,222&layout=compact)](https://github.com/rodcordeiro/apprenderMobile)
-[![KissManager](https://github-readme-stats.vercel.app/api/pin/?username=rodcordeiro&repo=kissmanagerapp&theme=dark&bg_color=28,090909,222&layout=compact)](https://github.com/rodcordeiro/kissManagerMobile)
+[![KissManager](https://github-readme-stats.vercel.app/api/pin/?username=rodcordeiro&repo=kissManager&theme=dark&bg_color=28,090909,222&layout=compact)](https://github.com/rodcordeiro/kissManagerMobile)
 [![Telegram_bot](https://github-readme-stats.vercel.app/api/pin/?username=rodcordeiro&repo=bot_beltis&theme=dark&bg_color=28,090909,222&layout=compact)](https://github.com/rodcordeiro/bot_beltis)
 [![RodChat](https://github-readme-stats.vercel.app/api/pin/?username=rodcordeiro&repo=chat&theme=dark&bg_color=28,090909,222&layout=compact)](https://github.com/rodcordeiro/chat)
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=rodcordeiro&style=flat-square) -->
 
-<!--
+<!-- 
 REFERENCES
 https://github.com/oppsec/oppsec/blob/master/README.md
 
