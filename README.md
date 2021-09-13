@@ -33,4 +33,5 @@ Hi, I'm Rod. I'm 22, a developer, tattooer and passionate about creating things 
 REFERENCES
 https://github.com/oppsec/oppsec/blob/master/README.md
 
+https://github.com/fdaciuk/fdaciuk/blob/main/fdaciuk.js
 -->
