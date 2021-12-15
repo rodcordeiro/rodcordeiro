@@ -1,11 +1,11 @@
 {
   "name": "rodcordeiro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My personal data card",
   "author": "Rodrigo Cordeiro <rodrigomendoncca@gmail.com> (https://rodcordeiro.com.br)",
   "private": false,
   "bin": {
-    "rodcordeiro":"./index.js"
+    "rodcordeiro": "./index.js"
   },
   "main": "./info.json",
   "scripts": {
