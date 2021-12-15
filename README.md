@@ -26,7 +26,7 @@ Hi, I'm Rod. I'm 22, a developer, tattooer and passionate about creating things 
 [![Telegram_bot](https://github-readme-stats.vercel.app/api/pin/?username=rodcordeiro&repo=bot_beltis&theme=dark&bg_color=28,090909,222&layout=compact)](https://github.com/rodcordeiro/bot_beltis)
 [![RodChat](https://github-readme-stats.vercel.app/api/pin/?username=rodcordeiro&repo=chat&theme=dark&bg_color=28,090909,222&layout=compact)](https://github.com/rodcordeiro/chat)
 
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <!-- ![](https://komarev.com/ghpvc/?username=rodcordeiro&style=flat-square) -->
 
 <!-- 
@@ -34,4 +34,6 @@ REFERENCES
 https://github.com/oppsec/oppsec/blob/master/README.md
 
 https://github.com/fdaciuk/fdaciuk/blob/main/fdaciuk.js
+
+https://github.com/rafaballerini/rafaballerini/blob/main/README.md
 -->
