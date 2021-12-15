@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule: # execute every 72 hours
-    - cron: "@daily"
+    - cron: "0 0 * * 1"
 
 jobs:
   build:
