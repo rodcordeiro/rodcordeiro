@@ -1,10 +1,30 @@
 #!/usr/bin/env node
 
-'use strict'
-const { readFile } = require('fs')
-const { join } = require('path')
+"use strict";
+import QRCode from "qrcode";
+import chalk from "chalk";
 
-readFile(join(__dirname, 'info.json'), 'utf8', (err, content) => {
-  if (err) throw err
-  console.log(content)
-})
+const qr = QRCode.toString(
+  "https://rodcordeiro.github.io/shares/files/rodrigo_cordeiro.vcf",
+  { type: "terminal", small: true, scale: 1 },
+  function (err, url) {
+    return url;
+  }
+);
+console.log({
+  name: "Rodrigo de Mendonça Cordeiro",
+  nickname: "RodCordeiro",
+  contact: {
+    website: "https://rodcordeiro.com.br",
+    email: "rodrigomendoncca@gmail.com",
+    discord: "RodCordeiro#2122",
+    telegram: "@RodCordeiro",
+  },
+  socialMedia: {
+    github: "https://github.com/rodcordeiro",
+    linkedin: "https://www.linkedin.com/in/rodrigomcordeiro/",
+  },
+});
+
+console.log(chalk.bgBlackBright("\n\n->"),chalk.cyanBright("Download my contact card:\n"));
+console.log(qr);

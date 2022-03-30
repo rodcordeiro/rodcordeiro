@@ -1,5 +1,5 @@
 {
-    "name": "Rodrigo Cordeiro",
+    "name": "Rodrigo de Mendonça Cordeiro",
     "nickname": "RodCordeiro",
     "contact": {
         "website": "https://rodcordeiro.com.br",
@@ -9,6 +9,7 @@
     },
     "socialMedia": {
         "github": "https://github.com/rodcordeiro",
-        "linkedin": "https://www.linkedin.com/in/rodrigomcordeiro/"
-    }
+        "linkedin": "https://www.linkedin.com/in/rodrigomcordeiro/"        
+    },
+    "Contact me": ""
 }
