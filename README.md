@@ -15,8 +15,15 @@
 [![Dev.To](https://img.shields.io/badge/rodcordeiro-black?&style=for-the-badge&logo=dev.to)](https://dev.to/rodcordeiro)
 
 ---
-
-## My common languages are
+<table>
+<thead>
+<tr>
+<th colspan="2"><h2>My common languages are</h2></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
 
 ![python](https://img.shields.io/badge/python-black?&style=for-the-badge&logo=python)
 ![Typescript](https://img.shields.io/badge/typescript-black?&style=for-the-badge&logo=typescript)
@@ -25,7 +32,14 @@
 ![ReactNative](https://img.shields.io/badge/ReactNative-black?&style=for-the-badge&logo=react)
 ![php](https://img.shields.io/badge/php-black?&style=for-the-badge&logo=php)
 
+</td>
+<td>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodcordeiro&theme=dark&layout=compact&bg_color=28,090909,222)
+</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
