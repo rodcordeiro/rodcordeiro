@@ -1,5 +1,6 @@
 {
   "branchPrefix": "updates/",
+  "baseBranches": ["lib"],
   "packageRules": [
     {
       "updateTypes": [
