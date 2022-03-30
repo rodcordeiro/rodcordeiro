@@ -28,6 +28,7 @@
 ![python](https://img.shields.io/badge/python-black?&style=for-the-badge&logo=python)
 ![Typescript](https://img.shields.io/badge/typescript-black?&style=for-the-badge&logo=typescript)
 ![javascript](https://img.shields.io/badge/javascript-black?&style=for-the-badge&logo=javascript)
+
 ![ReactJS](https://img.shields.io/badge/ReactJS-black?&style=for-the-badge&logo=react)
 ![ReactNative](https://img.shields.io/badge/ReactNative-black?&style=for-the-badge&logo=react)
 ![php](https://img.shields.io/badge/php-black?&style=for-the-badge&logo=php)
