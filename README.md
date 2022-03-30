@@ -1,10 +1,13 @@
 ## Hey devs ✌️
 
-<div style="display:flex;justify-content:center,align-items:center;gap:10px;margin:10px">
-<img style="width:50%" src="https://rodcordeiro.github.io/shares/img/myCard3.png" height="auto"/>
+|Me|Who am I?|
+|--|--|
+|<img style="width:100%" src="https://rodcordeiro.github.io/shares/img/myCard3.png" height="auto"/>|<p>Hi, I'm Rod. I'm 23, a developer, tattooer and passionate about creating things and automating tasks with some programs/scripts. I'm studying Systems analysis and development at Uninove university. If you have node, you can run `npx rodcordeiro` to get in touch!</p>|
+
+<!-- <img style="width:50%" src="https://rodcordeiro.github.io/shares/img/myCard3.png" height="auto"/>
 
 <p>Hi, I'm Rod. I'm 23, a developer, tattooer and passionate about creating things and automating tasks with some programs/scripts. I'm studying Systems analysis and development at Uninove university.</p>
-</div>
+</div> -->
 
 [![mail link](https://img.shields.io/badge/rodrigomendoncca%40gmail.com-black?&style=for-the-badge&logo=gmail)](mailto:rodrigomendoncca@gmail.com)
 [![Linkedin](https://img.shields.io/badge/rodrigomcordeiro-black?&style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rodrigomcordeiro)
