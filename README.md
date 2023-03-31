@@ -12,7 +12,7 @@
 ![ReactNative](https://img.shields.io/badge/ReactNative-black?&style=for-the-badge&logo=react)
 ![php](https://img.shields.io/badge/php-black?&style=for-the-badge&logo=php)
 ![ps](https://img.shields.io/badge/Powershell-black?&style=for-the-badge&logo=powershell)
-![shell](https://img.shields.io/badge/php-black?&style=for-the-badge&logo=linux)
+![shell](https://img.shields.io/badge/shell-black?&style=for-the-badge&logo=linux)
 
 <!--
 |Me|Who am I?|
